@@ -1,2 +1,2 @@
- University:  spring jpa, Elastic Search and MYSQL.
+ University:  spring jpa, Elastic Search and MySQL
  
